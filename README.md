@@ -1,1 +1,2 @@
 Git is a version control system, meaning it allows a software team to work together on the same source code without issues springin up as often due to constant documentation of changes, as well as rollback capabilites if a fatal error occurs and cannot be solved. It also allows different version of the code to be viewed/editted at the same time to minimize disruption to current source code when fixing smaller bugs.
+Chris Fulton is a collaborator on this project.
